@@ -26,12 +26,10 @@ def Customer_login(login_choice):
 
 
 
-
-
 def Customer_account_creation(creation_choice):
     if creation_choice == 1:
         fname=input("Enter your First Name: ")
-        lname=input("Enter your Sir Name: ")
+        lname=input("Enter your Surname: ")
         phoneNo=int(input("Enter your Phone Number: "))
         passWord=input("Enter your password: ")
 
