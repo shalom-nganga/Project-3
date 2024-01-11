@@ -36,6 +36,8 @@ We welcome contributions to improve the BnB Booking App! Please follow our contr
 
 ## Author
 
+Shalom Nganga
+
 ### License
 
 This project is licensed under the MIT License .
