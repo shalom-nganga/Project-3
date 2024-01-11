@@ -27,7 +27,7 @@ Before you start, make sure you have the following installed on your system:
 
 1. Clone this repository:
 
-   git clone `https://github.com/Victor-Njoroge/phase3-project.git`
+   git clone `https://github.com/shalom-nganga/Project-3`
 
 ### Features
 
