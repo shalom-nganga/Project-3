@@ -2,6 +2,10 @@
 
 Welcome to the backend repository of our BnB Booking App! This repository contains the server-side code responsible for managing BnB listings, bookings, and user authentication.
 
+## Author
+
+Shalom Nganga
+
 ## Getting Started
 
 Before you start, make sure you have the following installed on your system:
@@ -14,7 +18,7 @@ Before you start, make sure you have the following installed on your system:
 
 1. Clone this repository:
 
-   git clone `https://github.com/shalom-nganga/Project-3`
+git clone `https://github.com/shalom-nganga/Project-3`
 
 ### Features
 
@@ -33,10 +37,6 @@ This application uses a database to store user information, BnB listings, and bo
 ### Contributing
 
 We welcome contributions to improve the BnB Booking App! Please follow our contribution guidelines for more details on how to contribute.
-
-## Author
-
-Shalom Nganga
 
 ### License
 
