@@ -25,9 +25,6 @@ def Customer_login(login_choice):
             print("Invalid login credentials for Customer.")
 
 
-
-
-
 def Customer_account_creation(creation_choice):
     if creation_choice == 1:
         fname=input("Enter your First Name: ")
@@ -123,7 +120,7 @@ def Owner_register(creation_choice):
     
     if creation_choice == 2:
         fname=input("Enter your First Name: ")
-        lname=input("Enter your Sir Name: ")
+        lname=input("Enter your Surame: ")
         phoneNo=int(input("Enter your Phone Number: "))
         passWord=input("Enter your password: ")
 
@@ -155,7 +152,7 @@ def register_bnb(owner):
         new_bnb = Bnb(owner=owner, location=location, address=address, price=price, name=name, status=status)
         session.add(new_bnb)
         session.commit()
-        print("BnB registration successful!")
+        print("BnB registered successfully!")
     else:
         print("Logging Out")
 
